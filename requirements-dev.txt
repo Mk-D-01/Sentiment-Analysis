@@ -1,0 +1,5 @@
+# Local only: retraining/exporting the model and the Streamlit version (main.py).
+# Not installed on Vercel.
+-r requirements.txt
+scikit-learn==1.8.0
+streamlit

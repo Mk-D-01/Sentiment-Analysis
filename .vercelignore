@@ -1,0 +1,8 @@
+# Only app.py, analysis.py, templates/ and model_weights.json are needed on Vercel
+*.pkl
+main.py
+export_model.py
+requirements-dev.txt
+.devcontainer/
+__pycache__/
+*.pyc
